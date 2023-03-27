@@ -1,0 +1,4 @@
+Car	Price	Top Speed
+Ferrari	200k$	400km/h
+BMW	40k$	280km/h
+Приора	400k руб	200km/h
